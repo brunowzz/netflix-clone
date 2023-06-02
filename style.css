@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+main {
+    min-height: 100vh;
+    max-height: 100vh;
+    padding-top: 180px;
+    background: #000000;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 76px;
+    line-height: 97px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 68px;
+}
+
+section {
+    margin-left: 310px;
+}
+
+figure {
+    display: inline-block;
+    margin-right: 45px;
+}
+
+figcaption {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #A7A7A7;
+    text-align: center;
+}
